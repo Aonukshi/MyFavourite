@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: cursive;
+    background: linear-gradient(#FAFAFA 0%, #546E7A 100%);
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    display: inline;
+}
+
+#Gamename {
+    font-family: 'Indie Flower', cursive;
+}
+
+.link:hover {
+    background-color: #90A4AE;
+}
